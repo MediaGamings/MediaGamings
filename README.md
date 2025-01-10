@@ -8,7 +8,7 @@
 
 <h2 align="center">👤 About Me 👤</h2>
 <p align="center">
-  Hello! I'm a small Belgian 🇧🇪 developer who occasionally works on small projects.
+  Hello! I'm a small Belgian 🇧🇪 developer who occasionally works on small projects. I actually learn C# for Nova-Life Plugin development and probably do more later.
 </p>
 
 ---
