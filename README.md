@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">🔧 Tools / IDE 🔧</h2>
+<h2 align="center">🔧 Tools 🔧</h2>
 <p align="center">
   <code><img title="Visual Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/VisualStudio-Light.svg"></code>
 </p>
