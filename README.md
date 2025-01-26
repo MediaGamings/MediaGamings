@@ -23,5 +23,6 @@
 
 <h2 align="center">🔧 Tools 🔧</h2>
 <p align="center">
-  <code><img title="Visual Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/VisualStudio-Light.svg"></code>
+  <code><img title="Visual Studio" height="40" src="https://github.com/MediaGamings/skill-icons/blob/main/icons/VisualStudio-Light.svg"></code>
+  <code><img title="PyCharm" height="40" src="https://github.com/MediaGamings/skill-icons/blob/main/icons/PyCharm-Light.svg"></code>
 </p>
