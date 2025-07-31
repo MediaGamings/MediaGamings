@@ -25,4 +25,5 @@
 <p align="center">
   <code><img title="Visual Studio" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></code>
   <code><img title="PyCharm" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg"></code>
+  <code><img title="Rider" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg"</code>
 </p>
